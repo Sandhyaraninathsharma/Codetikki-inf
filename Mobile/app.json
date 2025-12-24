@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Doorly",
+    "slug": "doorly-mobile",
+    "scheme": "doorly",
+    "plugins": ["expo-router"],
+    "orientation": "portrait"
+  }
+}
